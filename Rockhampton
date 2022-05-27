@@ -1,0 +1,112 @@
+<html>
+    <head>
+        <style>
+            body {
+                font-family: <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@700&display=swap" rel="stylesheet">;
+                background-color: #C8E0FE;
+            }
+            header {
+                width: 100%;
+                background-color: #0057E1;
+                color: #ffffff;
+            }
+            footer {
+                width: 100%;
+                background-color: #0057E1;
+                color: #ffffff;
+            }
+            div {
+                background-color: #C8E0FE;
+            }
+            .left {
+                width: 100%;
+                float: left;
+                background-color: #C8E0FE;
+            }
+            .right {
+                width: 25%;
+                float: right;
+                background-color: #C8E0FE;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+        <font size= 7>
+         
+        </header>
+        <div class= "left">
+        <font size= 7>
+        <br><center>Rockhampton</center>
+        </font>
+        <font  size= 5>
+        <br><b><i><center>The Beef Capital of Australia</center></i></b>
+        <br>
+        <br><b><u>About Rockhampton </u></b>
+        <font size= 3>
+        <br>Rockhampton is a coastal city situated on the banks of the Fitzroy River. It is on the Tropic of Capricorn and 617km north of Brisbane – the capital. The name Rockhampton means ‘Place near the rocks in the river’ with rock meaning the high cliffs and Hampton meaning water (the Fitzroy River). Rockhampton is highly concentrated with Victorian-Era buildings.  
+        <br><iframe src="https://drive.google.com/file/d/1laEcixT35ouGCwZZKfRwH3o9ok-noz4D/preview" width="250" height="180" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1WMZjN4udYzflZdsmtFX78iGTVCgn0YTN/preview" width="250" height="180" allow="autoplay"></iframe>
+        <br>
+        <font size= 5>
+        <br><b><u>Accomodation</u></b>
+        <font size= 3>
+        <br>Rockhampton is a wonderful place to stay. With affordable motels to expensive, 5-star hotels, it is perfect for everyone. The Capricorn Motel (AUD 300) and Villa Capri (AUD 173) are both beautiful places to stay. They both have an outdoor pool and Continental, Full English/Irish and Buffet food. The Capricorn Motel has a range of different conference rooms and Villa Capri has room service and is just minutes away from the CBD, airport, and train station. If you are looking for somewhere with a view (and an excellent restaurant underneath), you should try the Empire Apartment Hotel (AUD 357). With river or city views straight from your rooms, and a pool, this is perfect for the scenery – lovers. The Alkoomi Adventure Farm Stay is the perfect stay for the adventurous. With cabins (AUD 100) or camping (AUD 10/person), motorbike/quadbike riding, campfire options, horse riding, sunset chuck wagon tours and you can also have a refreshing dip in the freshwater dam.<a href= "https://www.explorerockhampton.com.au/Plan-Your-Visit/Accommodation">Click here for more info.</a>
+        <br><iframe src="https://drive.google.com/file/d/1EcCD6psypsJbUJWBnftg05TXXeWl5Gki/preview" width="250" height="180" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1zP7EMiHVMK7ZDNxBuMap4WdiQ3Aa4bqM/preview" width="250" height="180" allow="autoplay"></iframe>
+        <br>
+        <font size= 5>
+        <br><b><u>Activities and Attractions</u></b>
+        <font size= 3>
+        <br>
+        <br><b><u>Nature</u></b>
+        <br>Rockhampton is the perfect place for any nature-lover. The Rockhampton Botanic Gardens have everything you will ever think of, from seedlings to 100-year-old trees. While you are there, you should also visit the Rockhampton Zoo, tickets are a bit costly ($100/person and $300/family of up to four) but you certainly will not regret it. With almost 100 animals, and 31 native species, it is an awesome place to spend the day. The Bouldercombe Gorge is a breathtaking hiking trail that is also suitable for children. You can also spend the day or camp at the Blackdown Tableland National Park if you are ready for the scenic 180km drive.<a href= "https://www.explorerockhampton.com.au/Explore/National-Parks">Click here for more info.</a>
+        <br><iframe src="https://drive.google.com/file/d/1o4_99GFRIuynG5zwyAV1ACi__ZJdGjp6/preview" width="250" height="180" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1Z8xhiwyTvitRxsevdMnOBREXWANjIZK3/preview" width="250" height="180" allow="autoplay"></iframe>
+        <br>
+        <br><b><u>Arts and Culture</u></b>
+        <br>Rockhampton is also the place for the enthusiastic artists. You can explore artwork on a calm evening by the Fitzroy River. Or if you prefer something indoor, try the Rockhampton Museum of Art; with its modern Australian artworks, it is the perfect inspiration for any budding artist. The GALA Commercial Gallery is also a wonderful place to both buy or just stare in awe at the appealing paintings. Just 1 km from the CBD, The Pilbeam Theatre hosts shows from all around the world, all year round and is the perfect place to go after a long day.<a href= "https://www.explorerockhampton.com.au/Explore/Arts-and-Culture">Click here for more info.</a>
+        <br><iframe src="https://drive.google.com/file/d/1P0cgC4FY4eQo8mIvO01SZv5kip7ylcvK/preview" width="250" height="180" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1VsT53ioPxubskqyj37f7pv39wz8dqoN9/preview" width="250" height="180" allow="autoplay"></iframe>
+        <br>
+        <br><b><u>Historic Sites and Landmarks</u></b>
+        <br>The City of Rockhampton is filled with history and culture. Seven bull statues (7 times the size of a real bull) were built from 1978 to attract cattle farmers, now, they have become an icon of The Beef Capital. You can do a quick 40-minute self-drive tour of these statues (remember to take photos so you can always remember your travels!) The Rockhampton Historical Society Museum is full of Rockhampton’s history, so if you love history, you must visit it (open 10:00 am to 2:00 pm on Tuesdays and Thursdays). Mount Morgan used to be a historic gold mining town. There are now tours and museums operating 7 days for just $6/adult! Watch and wonder as you explore the lookouts, museums, mines, and food options.<a href= "https://www.explorerockhampton.com.au/Explore/Heritage-and-History">Click here for more info.</a>
+        <br><iframe src="https://drive.google.com/file/d/1VPbjVJRFqaI5XS_FQnzMU1MOhTdJjnp2/preview" width="250" height="180" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1d5Ru64O-h7cvN2utYaoMzB_QSZ68oMuW/preview" width="250" height="180" allow="autoplay"></iframe>
+        <br>
+        <font size= 5>
+        <br><b><u>Food and Dining</u></b>
+        <font size= 3>
+        <br>There are many delicious food options in and around Rockhampton. Its only right that you eat steak in the beef capital of Australia, and that is why the Red Lion Hotel and Ribs and Rumps are the some of the best restaurants ever! The Red Lion Hotel is open for lunch and dinner and Ribs and Rumps is open for a delicious dinner. The Riverston Tea rooms is a spectacular place in the CBD to have your breakfast or tea by the river.<a href= "https://www.explorerockhampton.com.au/Explore/Eat-Drink">Click here for more info.</a>
+        <br><iframe src="https://drive.google.com/file/d/1r9DZ6w_GC9cff74_--VofHPQ1O-znqxg/preview" width="100" height="100" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1S376FGwV7GCPWYf8GTgXH19tLAi-RGk7/preview" width="100" height="100" allow="autoplay"></iframe><iframe src="https://drive.google.com/file/d/1EjXKONalE9ruJ0SfrM3DEtPXmjRkmncf/preview" width="100" height="100" allow="autoplay"></iframe>
+        </font>
+        </div.>
+        <footer>
+        <font size= 4>
+        <br>Sources
+        <font size= 2>
+        <br><a href= "Rockhampton, QLD - Aussie Towns">Rockhampton, QLD - Aussie Towns </a>
+        <br><a href= "Home Explore Rockhampton">Home Explore Rockhampton </a>
+        <br><a href= "See & Do Mount Morgan">See & Do Mount Morgan </a>
+        <br><a href= "Arts Explore Rockhampton">Arts Explore Rockhampton </a>
+        <br><a href= "Tours - Explore Rockhampton (stqry.app)">Tours - Explore Rockhampton (stqry.app) </a>
+        <br><a href= "Tours Explore Rockhampton">Tours Explore Rockhampton </a>
+        <br><a href= "National Parks Explore Rockhampton">National Parks Explore Rockhampton </a>
+        <br><a href= "Blackdown Tableland National Park | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au) ">Blackdown Tableland National Park | Parks and forests | Department of Environment and Science, Queensland (des.qld.gov.au) </a>
+        <br><a href= "Bouldercombe Gorge Resources Reserve - Google Maps">Bouldercombe Gorge Resources Reserve - Google Maps </a>
+        <br><a href= "Eat & Drink Explore Rockhampton">Eat & Drink Explore Rockhampton </a>
+        <br><a href= "Red Lion Hotel - Home | Facebook">Red Lion Hotel - Home | Facebook </a>
+        <br><a href= "Riverston Tea Rooms - Home (facebook.com)">Riverston Tea Rooms - Home (facebook.com) </a>
+        <br><a href= "Ribs and Rumps Rockhampton">Ribs and Rumps Rockhampton </a>
+        <br><a href= "Accommodation Explore Rockhampton">Accommodation Explore Rockhampton </a>
+        <br><a href= "Accommodation in Rockhampton | Capricorn Motel">Accommodation in Rockhampton | Capricorn Motel </a>
+        <br><a href= "Empire | Rockhampton Apartment Hotel (empirerockhampton.com.au)">Empire | Rockhampton Apartment Hotel (empirerockhampton.com.au) </a>
+        <br><a href= "Villa Capri | Rockhampton's Luxury Motel">Villa Capri | Rockhampton's Luxury Motel </a>
+        <br><a href= "Home - Alkoomi Adventure Farm Stay">Home - Alkoomi Adventure Farm Stay </a>
+        <br><a href= "fitzroy river rockhampton - Bing images">fitzroy river rockhampton - Bing images </a>
+        <br><a href= "rockhampton victorian buildings - Bing images">rockhampton victorian buildings - Bing images </a>
+        <br><a href= "Steakhouses Explore Rockhampton">Steakhouses Explore Rockhampton </a>
+        <br><a href= "Cafes Explore Rockhampton">Cafes Explore Rockhampton </a>
+        <br><a href= "Restaurants Explore Rockhampton">Restaurants Explore Rockhampton </a>
+        <br><a href= "rockhampton botanic gardens - Bing">rockhampton botanic gardens - Bing </a>
+        <br><a href= "bouldercombe gorge - Bing">bouldercombe gorge - Bing </a>
+        </footer>
+    </body>
+</html>
